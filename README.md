@@ -52,6 +52,7 @@ image-gallery/
 ├── index.html
 ├── styles.css
 ├── script.js
+├──README.md
 ├── images/                
 │   ├── images (direct pasted on code)
 ├── screenshots/          
