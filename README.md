@@ -20,16 +20,27 @@ It includes category-based filtering, a lightbox popup for viewing images, and a
 ## 📸 Screenshots
 
 ### 💡 Light Mode
+
 <img width="952" height="538" alt="image" src="https://github.com/user-attachments/assets/83c6cfc5-e4da-4555-a3c3-13f5a9584490" />
 
 ### 🌙 Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/e2fbbb96-5be6-48a7-afd1-3999a9951d90" />
 
 ### 🧩 Filter & Gallery
-![Filtered View](screenshots/filter-mode.png)
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/b2dcd962-a382-4e4f-a7cb-8d5a9e332c96" />
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/5dd1b293-66f3-441c-8510-184fc8e2c101" />
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/a72fbea0-87ff-4fb5-8f16-4a7c642323ac" />
+
 
 ### 🔎 Lightbox View
-![Lightbox](screenshots/lightbox.png)
+
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/114d013f-debd-4103-9a94-a09719cb75e3" />
+
 
 ---
 
@@ -41,10 +52,9 @@ image-gallery/
 ├── index.html
 ├── styles.css
 ├── script.js
-├── images/                 # (Optional) For local images
-│   ├── nature1.jpg
-│   └── ...
-├── screenshots/            # For README visual reference
+├── images/                
+│   ├── images (direct pasted on code)
+├── screenshots/          
 │   ├── light-mode.png
 │   ├── dark-mode.png
 │   ├── filter-mode.png
@@ -69,56 +79,14 @@ image-gallery/
 - **CSS3** – Responsive design and transitions
 - **JavaScript** – Dynamic filtering, lightbox, and theme logic
 
----
-
-## 📁 Use in Portfolio / Resume
-
-> Showcase this project as a frontend UI example or interactive web component in your portfolio.  
-> It reflects UI responsiveness, JavaScript DOM handling, and localStorage theming.
-
----
-
-## 🧠 Credits
-
-- Images provided by [Unsplash](https://unsplash.com)
-- Icons: Emoji
-- Design: Custom CSS
-
----
-
-## 🙌 Contribute
-
-Want to improve or extend the project (e.g. upload feature, database integration, pagination)?  
-Feel free to fork and submit a PR.
-
----
-
-## 📄 License
-
-MIT License. Free for personal and academic use.
-
----
-
-## 📎 Next Steps
-
-If you want, I can also:
-
-* Generate `screenshots/` for you automatically
-* Bundle this entire project in a ZIP with README & SS folder
-* Help you deploy this to GitHub Pages
-
-Just let me know!
 
 
 
 
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/e2fbbb96-5be6-48a7-afd1-3999a9951d90" />
 
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/b2dcd962-a382-4e4f-a7cb-8d5a9e332c96" />
 
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/5dd1b293-66f3-441c-8510-184fc8e2c101" />
 
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/a72fbea0-87ff-4fb5-8f16-4a7c642323ac" />
+
 
 
 
