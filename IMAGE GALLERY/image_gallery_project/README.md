@@ -76,8 +76,8 @@ image-gallery/
 
 ## 📦 Tech Stack
 
-- **HTML5** – Markup
-- **CSS3** – Responsive design and transitions
+- **HTML** – Markup
+- **CSS** – Responsive design and transitions
 - **JavaScript** – Dynamic filtering, lightbox, and theme logic
 
 
