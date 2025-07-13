@@ -18,9 +18,13 @@ A modern, responsive music player built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📸 Screenshots
 
-| Light Mode 💡 | Dark Mode 🌙 |
-|--------------|--------------|
-| ![Light Mode]() | ![Dark Mode](screenshots/dark-mode.png) |
+# Light Mode 💡 
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/55855428-bd6e-4d87-b021-b24c95833f3b" />
+
+# Dark Mode 🌙 
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/3d53c60d-66d0-474a-ac0f-a3ef3a31826c" />
 
 ---
 
@@ -28,7 +32,7 @@ A modern, responsive music player built using **HTML**, **CSS**, and **JavaScrip
 
 ```
 
-smart-music-player/
+music-player/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -48,49 +52,18 @@ smart-music-player/
 
 ## 🛠 How to Use
 
-### 1. Clone or Download the Project
-```bash
-git clone https://github.com/your-username/smart-music-player.git
-````
-
-Or download the ZIP and extract it.
-
-### 2. Replace Media Files
+### Replace Media Files
 
 Update with your own files:
 
-* `SONG1.mp3`, `SONG2.mp3`, `SONG3.mp3`
-* `COVER1.jpg`, `COVER2.jpg`, `COVER3.jpg`
+ `SONG1.mp3`, `SONG2.mp3`, `SONG3.mp3`
+ `COVER1.jpg`, `COVER2.jpg`, `COVER3.jpg`
 
-### 3. Open in Browser
+### Open in Browser
 
 Open `index.html` in any modern browser.
 
----
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/425df028-7716-41c8-8b5b-08b279afc79e" />
 
-## 🌍 Deploy Online
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/187b04d5-f515-4591-adcb-75c20c07c0d1" />
 
-Host your project using:
-
-* [GitHub Pages](https://pages.github.com/)
-* [Netlify](https://www.netlify.com/)
-* [Vercel](https://vercel.com/)
-
----
-
-## 🙌 Credits
-
-Crafted with ❤️ by \[Your Name] using HTML, CSS, and JavaScript.
-
----
-
-## 📃 License
-
-MIT License
-
-```
-
----
-
-Just copy the content above and paste it into a `README.md` file in your project folder. Let me know if you'd like it prepackaged in a `.zip` later!
-```
